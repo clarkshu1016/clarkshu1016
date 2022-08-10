@@ -3,8 +3,6 @@
 <!--
 **clarkshu1016/clarkshu1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi! 👋 I'm Shu, a Freelance dev specialized in native and cross-platform mobile app development. I have years of experience on Android, Flutter, Kotlin and Firebase products. I am based in Japan and love remote work!
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +13,6 @@ Hi! 👋 I'm Shu, a Freelance dev specialized in native and cross-platform mobil
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi! :wave: I'm Shu, a **Freelance** dev specialized in native and cross-platform mobile app development. I have years of experience on Android, Flutter, Kotlin and Firebase products. I am based in Tokyo and love remote work!
