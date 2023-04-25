@@ -15,4 +15,4 @@
 -->
 
 
-Hi! :wave: I'm Shu, a **Freelance** dev specialized in native and cross-platform mobile app development. I have years of experience on Android, Flutter, Kotlin and Firebase products. I am based in Tokyo and love remote work!
+Hi! :wave: I'm Shu, a **Freelance** dev specialized in native and cross-platform mobile app development. I have years of experience on Android, Ios Flutter, Kotlin,Jetpack compose,SwiftUI and Firebase products. I am based in Tokyo and love remote work!
