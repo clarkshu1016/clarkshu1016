@@ -18,4 +18,4 @@
 
 
 
-Hi! :wave: I'm Shu, a **Freelance** dev specializing in native and cross-platform mobile app development. I have years of experience with Android, IOS Flutter, Kotlin, Jetpack compose, SwiftUI, and Figma Design Firebase products. I am based in Tokyo and love remote work!
+Hi! :wave: I'm Shu, a **Freelance** dev specializing in native and cross-platform mobile app development. I have years of experience with Android, IOS Flutter, Kotlin, Jetpack compose, SwiftUI, Figma Design, and Firebase products. I am based in Tokyo and love remote work!
