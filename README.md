@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Stock app & Social app
+- 🔭 I’m currently working on a Cryptocurrency app & Social app
 
 
 
